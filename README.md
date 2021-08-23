@@ -33,9 +33,8 @@ mvn test -Dcucumber.options="QAassessment.feature"
 #### **Run code using IDE using IntelliJ** 
 -   Unzip the zip file (if you downloaded one).
 -   Open IntelliJ
-    -   File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip
-    - File -> New -> Project from Existing Source -> Navigate to the folder where you unzipped the zip
-    -   Select the project name 
+    - File -> New -> Project from Existing Source -> Navigate to the folder where you unzipped the project
+    - Select the project name 
 ######  Proceed to this step if project was cloned
 - Navigate to ***src/test/java/runnerTest/runnerTest.java***  
 - Right click on the file ***runnerTest.java*** and run 
